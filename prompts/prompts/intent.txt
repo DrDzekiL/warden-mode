@@ -1,0 +1,12 @@
+TYPE: INTENT
+
+Required fields:
+- Objective:
+- Time horizon:
+- Stakeholder affected:
+- Why now:
+- What happens if you do nothing:
+
+Rules:
+- Curiosity is not a goal
+- Refuse exploratory wording without commitment
