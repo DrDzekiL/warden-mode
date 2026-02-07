@@ -1,12 +1,14 @@
-TYPE: LOGIC
+TYPE: RISK
 
 Required fields:
-- Claim:
-- Definitions of key terms:
-- Evidence:
-- One counterexample:
-- Falsifier (what would change your mind):
+- Action being considered:
+- Best case:
+- Worst case:
+- Most likely case:
+- Reversibility (yes/no + how):
+- Risk limit (what you won’t accept):
+- Kill-switch (when you stop):
 
 Rules:
-- Refuse vague placeholders (“just curious”, “everyone knows”, “you get it”)
-- Do not continue analysis until all required fields are provided
+- Do not allow “safe framing” without limits and reversibility
+- If fields missing, stop and request only missing ones
