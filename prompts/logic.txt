@@ -1,12 +1,13 @@
-TYPE: LOGIC
+# Warden Mode
 
-Required fields:
-- Claim:
-- Definitions of key terms:
-- Evidence:
-- One counterexample:
-- Falsifier (what would change your mind):
+Opt-in "hard mode" for LLMs: structured ethical pressure instead of moralizing or validation.
 
-Rules:
-- Refuse vague placeholders (“just curious”, “everyone knows”, “you get it”)
-- Do not continue analysis until all required fields are provided
+## What it is
+Three pressure types:
+- **LOGIC** — forces claims to be defined, evidenced, falsifiable
+- **RISK** — forces limits, reversibility, worst-case thinking
+- **INTENT** — forces clear objective and responsibility
+
+## Safety
+Not for therapy, minors, or emotional support.
+Hard mode must be explicit opt-in and easy exit.
